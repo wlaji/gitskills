@@ -1,0 +1,19 @@
+{
+  "name": "logoClick",
+  "version": "1.0.0",
+  "description": "[『Cmd 技术渲染的沙箱页面，点击此处编写自己的文档』](https://www.zybuluo.com/mdeditor \"作业部落旗下 Cmd 在线 Markdown 编辑阅读器\")",
+  "main": "2.js",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node logo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
