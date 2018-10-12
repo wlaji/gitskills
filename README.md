@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [『Cmd 技术渲染的沙箱页面，点击此处编写自己的文档』](https://www.zybuluo.com/mdeditor "作业部落旗下 Cmd 在线 Markdown 编辑阅读器")
 
 # Cmd Markdown 简明语法手册
@@ -377,3 +378,4 @@ D-->>A: Dashed open arrow
 
 [^footnote2]: 这是另一个 *注脚* 的 **文本**。
 
+=======
